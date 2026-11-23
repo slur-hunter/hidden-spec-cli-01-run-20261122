@@ -1,0 +1,4 @@
+# mend build artifacts (none produced by the tool itself; kept minimal)
+node_modules/
+*.log
+.DS_Store
